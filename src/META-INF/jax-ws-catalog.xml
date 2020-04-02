@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://streetmaster.streetmaster.it/smws/fill?wsdl" uri="wsdl/streetmaster.streetmaster.it/smws/fill.wsdl"/>
+    <system systemId="https://streetmaster.streetmaster.it:443/smws/fill?xsd=1" uri="wsdl/streetmaster.streetmaster.it_443/smws/fill.xsd_1.xsd"/>
+</catalog>
